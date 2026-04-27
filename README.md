@@ -53,6 +53,8 @@ end
 
 ## Example output
 
+Messages from Bundler will be printed to stdout if there are any missing gems to install.
+
 ```
 % ./app.rb hello
 Automatically installing missing gems.
